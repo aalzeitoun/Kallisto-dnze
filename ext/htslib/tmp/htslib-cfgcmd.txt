@@ -1,0 +1,1 @@
+cmd='autoheader;&&;autoconf;&&;/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/ext/htslib/configure;--prefix=;--disable-bz2;--disable-lzma;--disable-libcurl'

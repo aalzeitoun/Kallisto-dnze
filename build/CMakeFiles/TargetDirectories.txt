@@ -1,0 +1,15 @@
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/build/CMakeFiles/install/local.dir
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/build/CMakeFiles/install/strip.dir
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/build/CMakeFiles/install.dir
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/build/CMakeFiles/list_install_components.dir
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/build/CMakeFiles/rebuild_cache.dir
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/build/CMakeFiles/edit_cache.dir
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/build/CMakeFiles/htslib.dir
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/build/src/CMakeFiles/install/local.dir
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/build/src/CMakeFiles/list_install_components.dir
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/build/src/CMakeFiles/kallisto_core.dir
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/build/src/CMakeFiles/rebuild_cache.dir
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/build/src/CMakeFiles/edit_cache.dir
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/build/src/CMakeFiles/install/strip.dir
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/build/src/CMakeFiles/install.dir
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/build/src/CMakeFiles/kallisto.dir

@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+b7a12f224ea0b05824935655d99aae60 ../ext/htslib/src/htslib-stamp/htslib-build
+56cdbe2732f7264ab37e464c0194bc31 ../ext/htslib/src/htslib-stamp/htslib-configure
+6e382345cbe7b8f2e6bb1fc37fee000e ../ext/htslib/src/htslib-stamp/htslib-download
+3517cfbf7ffe02f895c767d6725fbc3c ../ext/htslib/src/htslib-stamp/htslib-install
+59c137adbe64ea973e5c68f82daa53b5 ../ext/htslib/src/htslib-stamp/htslib-mkdir
+9a877f70b0367639784b0a748097aeaa ../ext/htslib/src/htslib-stamp/htslib-patch
+1ae6264ab8d5bcbdda5a9afc0ac5e5a8 ../ext/htslib/src/htslib-stamp/htslib-update
+4d7bd091fb00fe14bd863abf073c4a67 CMakeFiles/htslib
+7810aa522da31b07ee90ab5b0e3bacf4 CMakeFiles/htslib-complete

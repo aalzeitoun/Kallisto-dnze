@@ -1,0 +1,380 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../ext/htslib/htslib/bgzf.h
+stdint.h
+-
+stdio.h
+-
+zlib.h
+-
+sys/types.h
+-
+hts_defs.h
+../ext/htslib/htslib/hts_defs.h
+
+../ext/htslib/htslib/hts.h
+stddef.h
+-
+stdint.h
+-
+hts_defs.h
+../ext/htslib/htslib/hts_defs.h
+
+../ext/htslib/htslib/hts_defs.h
+
+../ext/htslib/htslib/sam.h
+stdint.h
+-
+hts.h
+../ext/htslib/htslib/hts.h
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/BUSData.h
+string
+-
+vector
+-
+stdint.h
+-
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/BUSTools.h
+fstream
+-
+vector
+-
+BUSData.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/BUSData.h
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/Bootstrap.h
+mutex
+-
+thread
+-
+KmerIndex.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/KmerIndex.h
+MinCollector.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/MinCollector.h
+weights.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/weights.h
+EMAlgorithm.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/EMAlgorithm.h
+Multinomial.hpp
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/Multinomial.hpp
+H5Writer.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/H5Writer.h
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/EMAlgorithm.h
+common.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/common.h
+KmerIndex.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/KmerIndex.h
+MinCollector.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/MinCollector.h
+weights.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/weights.h
+algorithm
+-
+numeric
+-
+iostream
+-
+limits
+-
+vector
+-
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/GeneModel.h
+vector
+-
+string
+-
+sstream
+-
+memory
+-
+unordered_map
+-
+common.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/common.h
+KmerIndex.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/KmerIndex.h
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/H5Writer.h
+EMAlgorithm.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/EMAlgorithm.h
+h5utils.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/h5utils.h
+PlaintextWriter.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/PlaintextWriter.h
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/Inspect.h
+iostream
+-
+unordered_set
+-
+KmerIndex.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/KmerIndex.h
+GeneModel.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/GeneModel.h
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/Kmer.hpp
+stdio.h
+-
+stdint.h
+-
+cassert
+-
+cstring
+-
+string
+-
+hash.hpp
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/hash.hpp
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/KmerHashTable.h
+utility
+-
+string
+-
+iterator
+-
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/KmerIndex.h
+iostream
+-
+fstream
+-
+vector
+-
+unordered_map
+-
+stdint.h
+-
+ostream
+-
+common.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/common.h
+Kmer.hpp
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/Kmer.hpp
+KmerIterator.hpp
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/KmerIterator.hpp
+KmerHashTable.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/KmerHashTable.h
+hash.hpp
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/hash.hpp
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/KmerIterator.hpp
+iterator
+-
+Kmer.hpp
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/Kmer.hpp
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/Merge.h
+common.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/common.h
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/MinCollector.h
+common.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/common.h
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+unordered_map
+-
+KmerIndex.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/KmerIndex.h
+weights.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/weights.h
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/Multinomial.hpp
+stdexcept
+-
+random
+-
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/PlaintextWriter.h
+assert.h
+-
+cstdlib
+-
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+KmerIndex.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/KmerIndex.h
+GeneModel.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/GeneModel.h
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/ProcessReads.h
+zlib.h
+-
+kseq.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/kseq.h
+string
+-
+vector
+-
+unordered_map
+-
+algorithm
+-
+iostream
+-
+fstream
+-
+thread
+-
+mutex
+-
+atomic
+-
+condition_variable
+-
+MinCollector.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/MinCollector.h
+KmerIndex.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/KmerIndex.h
+common.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/common.h
+PseudoBam.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/PseudoBam.h
+EMAlgorithm.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/EMAlgorithm.h
+GeneModel.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/GeneModel.h
+BUSData.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/BUSData.h
+BUSTools.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/BUSTools.h
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/PseudoBam.h
+vector
+-
+iostream
+-
+utility
+-
+htslib/sam.h
+-
+htslib/hts.h
+-
+htslib/bgzf.h
+-
+KmerIndex.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/KmerIndex.h
+GeneModel.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/GeneModel.h
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/common.h
+string
+-
+vector
+-
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/h5utils.h
+assert.h
+-
+cstring
+-
+memory
+-
+string
+-
+vector
+-
+iostream
+-
+hdf5.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/hdf5.h
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/hash.hpp
+stdint.h
+-
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/kseq.h
+ctype.h
+-
+string.h
+-
+stdlib.h
+-
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/main.cpp
+string
+-
+iostream
+-
+random
+-
+sstream
+-
+vector
+-
+sys/stat.h
+-
+getopt.h
+-
+thread
+-
+time.h
+-
+algorithm
+-
+cstdio
+-
+zlib.h
+-
+common.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/common.h
+ProcessReads.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/ProcessReads.h
+KmerIndex.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/KmerIndex.h
+Kmer.hpp
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/Kmer.hpp
+MinCollector.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/MinCollector.h
+EMAlgorithm.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/EMAlgorithm.h
+weights.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/weights.h
+Inspect.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/Inspect.h
+Bootstrap.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/Bootstrap.h
+H5Writer.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/H5Writer.h
+GeneModel.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/GeneModel.h
+Merge.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/Merge.h
+
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/weights.h
+KmerIndex.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/KmerIndex.h
+MinCollector.h
+/Users/ahmadalzeitoun/Projects/DZNE Kallisto/kallisto-master/src/MinCollector.h
+cmath
+-
+unordered_map
+-
+utility
+-
+vector
+-
+
